@@ -1,1 +1,1 @@
-# k8s-simple-demo
+# Running web app with mongodb database on kubernates
